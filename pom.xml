@@ -17,11 +17,7 @@
         <module>TopicProvider</module>
         <module>topicCosumer</module>
     </modules>
-    <!--test-->
-    <!--再加一行-->
-         <!--加一行-->
-    <!--再加第二行-->
-    <!--master加一行-->
+    <!--添加功能-->
     <properties>
         <!-- 项目设置:编码格式UTF-8 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
