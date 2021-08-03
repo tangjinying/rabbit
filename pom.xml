@@ -22,6 +22,8 @@
          <!--加一行-->
     <!--再加第二行-->
     <!--master加一行-->
+    <!--加第三行-->
+    <!--dev加-->
     <properties>
         <!-- 项目设置:编码格式UTF-8 -->
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
